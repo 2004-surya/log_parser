@@ -1,0 +1,26 @@
+# Ignore system files and directories
+.TurboVPN/
+.bash_history
+.config/
+.gitconfig
+.idlerc/
+.ipython/
+.keras/
+.lesshst
+.matplotlib/
+.node_repl_history
+.ssh/
+.vscode/
+.yarn/
+.yarnrc
+.yarnrc.yml
+AppData/
+Cisco Packet Tracer 8.2.1/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
